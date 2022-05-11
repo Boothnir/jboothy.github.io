@@ -260,6 +260,10 @@ samp {
   unicode-bidi: bidi-override;
 }
 
+#myLogo{
+  width: 20%;
+}
+
 pre {
   display: block;
   margin-top: 0;
